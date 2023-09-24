@@ -1,3 +1,3 @@
 n = int(input())
 
-print("{} + {}".format(oct(n),10))
+print("{}".format(oct(n)))
